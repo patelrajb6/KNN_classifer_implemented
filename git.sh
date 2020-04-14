@@ -1,5 +1,5 @@
 #!/bin/zsh
-git add .
+git add README.md iris.csv git.sh rpate375-KNN.ipynb
 
 read message
 
